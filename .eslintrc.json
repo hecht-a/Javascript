@@ -114,6 +114,7 @@
       "error",
       "all"
     ],
-    "no-return-await": "error"
+    "no-return-await": "error",
+    "lines-between-class-members": ["error"]
   }
 }
